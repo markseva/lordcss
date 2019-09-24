@@ -1,0 +1,62 @@
+body{
+  background-color: #331a00;
+  background-image: url("https://img.cinemablend.com/filter:scale/quill/f/8/0/b/b/2/f80bb276c023e511c5678e70bc806638211872e7.jpg?mw=600");
+   background-repeat: no-repeat;
+   background-size: contain;
+   background-attachment: fixed;
+  background-position: center center;
+}
+
+h2{
+font-family: 'Meddon', cursive;
+color: #fdae72;
+font-size: 40px;
+border: outset;
+background-color: 	#737373;
+text-shadow: 5px 5px 5px #C0C0C0;
+padding: 20px 20px 20px 20px;
+}
+
+nav{
+  background-image: url("https://img1.goodfon.com/wallpaper/nbig/3/a5/lords-of-rings-vlastelin.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  font-size: 30px;
+  text-align: center;
+  border: 10px solid transparent;
+}
+nav li{
+  padding:14px 16px 14px 16px;
+}
+
+nav ul{
+  list-style-type: none;
+  text-align:center;
+  margin: 0;
+  padding: 0;
+}
+
+section{
+  color: rgb(0, 0, 0);
+}
+
+a{
+  text-decoration: none;
+}
+
+article{
+  border: outset;
+  border-color: #393e46;
+  background-color: rgb(255,222,173);
+  padding:10px 12px 10px 10px;
+}
+h4{
+font-family: 'Medula One', cursive;
+letter-spacing: .5em;
+word-spacing: 30%;
+color: olivedrab;
+border: solid;
+border-color: sienna;
+background-color: seashell;
+padding:14px 16px 14px 16px;
+}

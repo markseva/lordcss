@@ -1,0 +1,86 @@
+body{
+  background-color: #420000;
+  background-image: url("https://i.pinimg.com/originals/94/42/e2/9442e2cf95890d19158b59a961b70338.jpg");
+   background-repeat: no-repeat;
+   background-size: contain;
+   background-attachment: fixed;
+  background-position: center center;
+ 
+}
+
+h1{
+  font-family: 'MedievalSharp', cursive;
+  color: #f77754;
+  font-size: 2.1em;
+  text-shadow: 5px 5px 5px #C0C0C0;
+  text-decoration: underline solid black;
+  text-align: center;
+  word-spacing: .8em;
+  background-color:#584b42;
+  background-repeat: no-repeat;
+  background-size:  100% 100%;
+  border: 10px solid transparent;
+  border-image: url( "https://mylocalnews.us/wp-content/uploads/2018/06/r0_84_900_590_w1200_h678_fmax.jpg") 10% round;
+  
+}
+
+header h3{
+  font-family: 'MedievalSharp', cursive;
+  text-align: center;
+  border: outset;
+  border-color: #393e46;
+  background-color: rgb(255,222,173);
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}
+
+nav{
+  background-image: url("https://img1.goodfon.com/wallpaper/nbig/3/a5/lords-of-rings-vlastelin.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  font-size: 30px;
+  text-align: center;
+  border: 10px solid transparent;
+}
+
+nav li{
+  padding:14px 16px 14px 16px;
+}
+
+nav ul{
+  list-style-type: none;
+  text-align:center;
+  margin: 0;
+  padding: 0;
+}
+
+
+a{
+  text-decoration: none;
+}
+
+header h2{
+  font-family: Medula One;
+  font-size: 3em;
+}
+
+section{
+  color: rgba(250, 218, 189, 1);
+}
+
+footer{
+  font-family: 'MedievalSharp', cursive;
+  font-size: 200em;
+  background-color: #a34a28;
+  border: 5px solid #211717;
+  padding: 10px 20px 10px 20px;
+}
+
+article p{
+  font-family: 'MedievalSharp', cursive;
+  text-align: center;
+  border: outset;
+  border-color: #393e46;
+  background-color: 	#556B2F;
+  padding: 10px 20px 10px 20px;
+}
